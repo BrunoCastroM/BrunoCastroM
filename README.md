@@ -1,7 +1,7 @@
 ### Hi, I'm Bruno Castro 👋
 
-- 🔭 I'm currently working on a project called simplify;
-- 🌱 I’m currently learning Python, Django, MySql, HTML5 and CSS;
+- 🔭 I'm currently working on a project called "Simplify"
+- 🌱 I’m currently learning Python, Django, MySql, HTML5 and CSS
 
 <div align="center">
   <a href="https://github.com/BrunoCastroM">
