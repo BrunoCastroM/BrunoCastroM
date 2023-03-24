@@ -12,6 +12,8 @@
   <img align="center" alt="Bruno-MySQL" height="55" width="55" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 
+##
+
 <div>
   <a href="http://www.linkedin.com/in/brunocastrom" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:brunocastromoura@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
