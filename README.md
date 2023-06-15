@@ -1,6 +1,6 @@
 ### Hi, I'm Bruno Castro 👋
 
-- 🌱 I’m currently learning JavaScript, HTML5 and CSS
+- 🌱 I’m currently learning TypeScript
 
 <div style="display: inline_block">
   <br>
